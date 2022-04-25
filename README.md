@@ -1,1 +1,3 @@
 # NMR-WebApp-inputs
+
+This repo stores and tracks templates for the fid.com input files necessary to run the NMR Web Application at: (address here). This repo has two main folders, one for each type of instrument used for reading raw NMR data: Varian; Bruker. Within each of these folders (i.e, Varian, Bruker), there are various template scripts for running the data conversion process with different parameters. Please select the instrument folder and template script that best matches the conversion process you desire. Note that some editing and tweaking of the template script may be needed. Please see the README files associated with each template script for more details.
